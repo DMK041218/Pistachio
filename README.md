@@ -1,5 +1,17 @@
 
-# Pistachio: Towards Synthetic, Balanced, and Long-Form Video Anomaly Benchmarks
+<h1 align="center">Pistachio: Towards Synthetic, Balanced, and Long-Form Video Anomaly Benchmarks</h1>
+
+<p align="center"><b>ECCV 2026</b></p>
+
+<p align="center">
+  Jie Li<sup>*</sup> ·
+  Hongyi Cai<sup>*</sup> ·
+  Mingkang Dong ·
+  Muxin Pu ·
+  Shan You ·
+  Fei Huang ·
+  Tao Huang<sup>†</sup>
+</p>
 
 [![arXiv](https://img.shields.io/badge/arXiv-2511.19474-b31b1b.svg)](https://arxiv.org/abs/2511.19474)
 [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://pistachio-video.github.io )
