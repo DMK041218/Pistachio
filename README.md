@@ -9,7 +9,7 @@
   Mingkang Dong ·
   Muxin Pu ·
   Shan You ·
-  Fei Huang ·
+  Fei Wang ·
   Tao Huang<sup>†</sup>
 </p>
 
