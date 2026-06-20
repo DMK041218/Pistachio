@@ -14,9 +14,17 @@
 </p>
 
 
-[![arXiv](https://img.shields.io/badge/arXiv-2511.19474-b31b1b.svg)](https://arxiv.org/abs/2511.19474)
-[![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://pistachio-video.github.io )
-[![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-yellow.svg)](https://huggingface.co/datasets/lizirulestheworld/Pistachio)
+<p align="center">
+  <a href="https://arxiv.org/abs/2511.19474">
+    <img src="https://img.shields.io/badge/arXiv-2511.19474-b31b1b.svg" alt="arXiv">
+  </a>
+  <a href="https://pistachio-video.github.io">
+    <img src="https://img.shields.io/badge/Project-Page-green.svg" alt="Project Page">
+  </a>
+  <a href="https://huggingface.co/datasets/lizirulestheworld/Pistachio">
+    <img src="https://img.shields.io/badge/Dataset-HuggingFace-yellow.svg" alt="Dataset">
+  </a>
+</p>
 
 ![framework](1.png)
 
