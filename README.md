@@ -14,6 +14,7 @@
 </p>
 
 <p align="center">
+
 [![arXiv](https://img.shields.io/badge/arXiv-2511.19474-b31b1b.svg)](https://arxiv.org/abs/2511.19474)
 [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://pistachio-video.github.io )
 [![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-yellow.svg)](https://huggingface.co/datasets/lizirulestheworld/Pistachio)
@@ -21,6 +22,7 @@
 ![framework](1.png)
 
 </p>
+
 ## 📋 Installation
 Clone the repo:
 ```sh
